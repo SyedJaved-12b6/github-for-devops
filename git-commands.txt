@@ -1,0 +1,22 @@
+1  git init
+2  git remote add origin
+3  git add .
+4  git commit -m "added"
+    5  cls
+    6  clear
+   11  cd
+   19  ls -l
+   86  wsl --status
+   87  git status
+   91  git add testing.html
+   93  git rm --cached testing.html
+   97  git commit -m "one testing file added"
+  100  rm -f testing.html
+  102  git restore testing.html
+  103  clear
+  104  git remote add origin 
+  105  git push -u origin main
+  106  git remote -v
+  108  git push origin master
+  109  git remote set-url origin
+  115  history
