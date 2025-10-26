@@ -20,3 +20,7 @@
   108  git push origin master
   109  git remote set-url origin
   115  history
+git log
+git commit --amend
+git rebase --continue
+git push --force origin master
